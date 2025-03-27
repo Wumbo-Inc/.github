@@ -1,2 +1,2 @@
 # .github
-Wumbo Inc GitHub Repo
+Simple GitHub repo for hosting our public-facing README
